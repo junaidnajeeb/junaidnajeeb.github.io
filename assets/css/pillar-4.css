@@ -6117,6 +6117,9 @@ button.bg-dark:focus {
   .d-print-inline-flex {
     display: inline-flex !important;
   }
+  .copyright {
+    visibility: hidden; 
+  }
 }
 
 .embed-responsive {
@@ -8707,6 +8710,13 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 
 .footer .fa-heart {
   color: #fb866a;
+}
+
+.footer, .footer > small > a {
+  color: #F7F8FA;
+}
+.footer .fa-heart {
+  color: #F7F8FA;
 }
 
 @media (max-width: 767.98px) {
