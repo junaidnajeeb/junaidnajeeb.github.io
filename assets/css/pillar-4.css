@@ -8680,6 +8680,10 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   color: #434E5E;
 }
 
+.resume-degree .svg-inline--fa {
+  margin-right: 5px;
+}
+
 .resume-degree-org {
   font-size: 0.875rem;
 }
